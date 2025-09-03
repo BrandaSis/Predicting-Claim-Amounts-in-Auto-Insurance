@@ -3,4 +3,6 @@ This project used 2015 U.S. auto insurance claims and vehicle registration data 
 
 ## Resources
 https://www.fhwa.dot.gov/policyinformation/statistics/2015/mv1.cfm  
-https://www.kaggle.com/datasets/buntyshah/auto-insurance-claims-data
+https://www.kaggle.com/datasets/buntyshah/auto-insurance-claims-data  
+https://www.mdpi.com/2227-9091/12/4/62  
+https://www.mdpi.com/2227-9091/11/9/164
